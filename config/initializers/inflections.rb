@@ -8,7 +8,7 @@
 #   inflect.singular /^(ox)en/i, '\1'
    inflect.irregular 'hero', 'heroes'
 #   inflect.uncountable %w( fish sheep )
-# end
+ end
 
 # These inflection rules are supported but not enabled by default:
 # ActiveSupport::Inflector.inflections(:en) do |inflect|
